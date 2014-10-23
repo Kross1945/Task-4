@@ -1,0 +1,5 @@
+I:\Origin\Saves of games\GitHub\Task-4\Task 4\Task 4\bin\Debug\Task 4.exe.config
+I:\Origin\Saves of games\GitHub\Task-4\Task 4\Task 4\bin\Debug\Task 4.exe
+I:\Origin\Saves of games\GitHub\Task-4\Task 4\Task 4\bin\Debug\Task 4.pdb
+I:\Origin\Saves of games\GitHub\Task-4\Task 4\Task 4\obj\Debug\Task 4.exe
+I:\Origin\Saves of games\GitHub\Task-4\Task 4\Task 4\obj\Debug\Task 4.pdb
